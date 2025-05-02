@@ -429,8 +429,8 @@ const Header = () => {
                   </p>
                   <a
                     className="text-2xl font-semibold font-montserrat"
-                    href="tel:+99890000000">
-                    {"+998 (90) 000 00 00"}
+                    href="tel:+998950490473">
+                    {"+998 (95) 049 04 73"}
                   </a>
                 </div>
                 <button onClick={() => setShowModal(true)}>
